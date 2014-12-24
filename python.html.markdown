@@ -6,10 +6,7 @@ contributors:
     - ["Andre Polykanine", "https://github.com/Oire"]
 filename: learnpython.py
 ---
-
-Python was created by Guido Van Rossum in the early 90s. It is now one of the most popular
-languages in existence. I fell in love with Python for its syntactic clarity. It's basically
-executable pseudocode.
+Python został stworzony przez Guido Van Rossum w wczesnych latach 90-tych. Dzisiaj jest jednym z najbardziej popularnych języków. Miłość do Pythona wynika z jego składniowej klarowności. To zasadniczo wykonywalny pseudokod. 
 
 Feedback would be highly appreciated! You can reach me at [@louiedinh](http://twitter.com/louiedinh) or louiedinh [at] [google's email service]
 
@@ -26,13 +23,13 @@ to Python 2.x. For Python 3.x, take a look at the Python 3 tutorial.
 """
 
 ####################################################
-## 1. Primitive Datatypes and Operators
+## 1. Podstawowe Typy danych and Operatory
 ####################################################
 
-# You have numbers
+# Mamy liczby
 3  # => 3
 
-# Math is what you would expect
+# Matematyka jest zgodna z przewidywaniami
 1 + 1  # => 2
 8 - 1  # => 7
 10 * 2  # => 20
